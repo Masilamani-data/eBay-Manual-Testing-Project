@@ -1,18 +1,18 @@
-🛒 Project: Manual Testing of eBay Web Application
+**🛒 Project: Manual Testing of eBay Web Application**
 
 This project focuses on performing end-to-end manual testing on the eBay web application.
 The goal of this project is to identify functional, integration, system, regression, and UI defects, and document them using industry-standard test artifacts.
 
-🔍 Project Overview
+**🔍 Project Overview**
 
 The eBay application allows users to search, view, buy, bid on products, manage their cart, add reviews, and also list items as sellers.
 This project validates the quality and functionality of these key features by creating test cases, executing them, reporting defects, and documenting results.
 
-🧪 Testing Scope
+**🧪 Testing Scope**
 
 The following core modules of the eBay application were tested:
 
-✔ Functional Testing
+**✔ Functional Testing**
 
 Login & Registration
 
@@ -34,7 +34,7 @@ Reviews & Ratings
 
 Seller Listing Module
 
-✔ Integration Testing
+**✔ Integration Testing**
 
 Register → Login
 
@@ -46,7 +46,7 @@ Create Listing → My Listings
 
 Add Review → Product Review Page
 
-✔ System Testing (End-to-End)
+**✔ System Testing (End-to-End)**
 
 Purchase product flow
 
@@ -62,7 +62,7 @@ Seller adding a new product with images & stock
 
 Remove products from cart
 
-✔ Smoke Testing
+**✔ Smoke Testing**
 
 Verify basic app accessibility
 
@@ -74,7 +74,7 @@ Add to Cart
 
 Checkout navigation
 
-✔ Regression Testing
+**✔ Regression Testing**
 
 Critical impact areas tested after fixes:
 
@@ -90,63 +90,39 @@ Address validation
 
 Seller upload
 
-📄 Test Artifacts Included
+**This repository contains:**
+1. Test Cases
+2. Defect Report
+3. Functional Testing Scenarios
+4. Integration Testing Scenarios
+5. System Testing Scenarios
+6. Smoke Testing Scenarios
+7. Impact Analysis
 
-This repository contains:
+**🛠 Tools Used**
 
-📁 Test Case Documents
+**Browser:** Chrome
 
-Functional Test Cases
+**OS:** Windows
 
-Integration Test Cases
+**Documentation:** MS Excel, MS Word
 
-System Test Cases
 
-Smoke Test Scenarios
+**✔ Key Bug Identified (Example)**
 
-Regression Impact Areas
-
-🐞 Defect Reports
-
-Defect Sheet with severity & priority
-
-Detailed defect description
-
-Reproduction steps
-
-Expected vs Actual results
-
-📊 Test Execution Reports
-
-Pass/Fail summary
-
-Test completion status
-
-🛠 Tools Used
-
-Browser: Chrome
-
-OS: Windows
-
-Documentation: MS Excel, MS Word
-
-Screenshot Tools: Snipping Tool / Lightshot
-
-✔ Key Bug Identified (Example)
-
-Issue: Removing product from cart not working
+**Issue:** Removing product from cart not working
 
 Remove button does not update cart
 
 No error message displayed
 
-Severity: High
+**Severity:** High
 
-Priority: High
+**Priority:** High
 
 (Fully documented in defect sheet)
 
-👨‍💻 About This Project
+**👨‍💻 About This Project**
 
 This project was created as part of a QA/Manual Testing learning and portfolio-building exercise.
 It demonstrates strong understanding of:
@@ -163,5 +139,5 @@ End-to-end functional testing
 
 ⭐ Author
 
-Masilamani D
-Manual Tester | QA Enthusiast
+**Masilamani D
+Manual Tester | QA Enthusiast**
