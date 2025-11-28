@@ -137,6 +137,6 @@ Requirement analysis
 
 End-to-end functional testing
 
-**⭐ Author**:
-**Masilamani D
-Manual Tester | QA Enthusiast**
+****⭐ Author :****
+ **Masilamani D
+ Manual Tester | QA Enthusiast**
